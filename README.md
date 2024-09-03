@@ -4,7 +4,6 @@
  🎓 Computer Science undergraduate @Staffordshire University <br/>
  <!--👩🏻‍💻 I’m currently working on an agile project [Mingle:APIIT blog](https://github.com/Mingle-APIIT-Blog/Mingle)
  <br/-->
- 📚 Currently learning React Js
  <br/>
 
 
