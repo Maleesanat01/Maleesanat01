@@ -27,6 +27,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE0.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![Selenium](https://img.shields.io/badge/selenium-%230072B6.svg?style=for-the-badge&logo=selenium&logoColor=white)
 
 
